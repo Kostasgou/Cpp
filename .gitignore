@@ -1,0 +1,37 @@
+# Visual Studio folders
+.vs/
+ipch/
+
+# Build output folders
+Debug/
+Release/
+x64/
+x86/
+bin/Debug/
+bin/Release/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# C/C++ build artifacts
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.tmp
+*.exe
+
+# CMake / build system leftovers
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# OS files
+.DS_Store
+Thumbs.db
